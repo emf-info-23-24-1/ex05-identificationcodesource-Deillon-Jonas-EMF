@@ -1,3 +1,4 @@
+# Questions et vos réponses
 Pour chacun des mots-clés Java suivants, expliquez ci-dessous ce que c'est `ET`ce que ça fait :
 
 - `package`  
@@ -69,11 +70,10 @@ Une propriété
 
 ```
 // Collez votre code Java ici..
-```
-
-
-
-Répondez ensuite aux questions du fichier [RESPONSES.md](RESPONSES.md) directement dans celui-ci.
+```  
+  
+  
+# La classe `Motocycle` 
 ```
 package parts;
 
