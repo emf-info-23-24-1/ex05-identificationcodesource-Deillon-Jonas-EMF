@@ -1,12 +1,14 @@
 # Ex05-IdentificationCodeSource
 ## Instructions (15')
-Le code source ci-dessous d’une classe vous est donné.
-Répondez aux questions du fichier [RESPONSES.md](RESPONSES.md)
+On vous donne ci-dessous le code source d’une classe Java.  
+Prenez le temps de bien l'observer, d'identifier ses caractéristiques ainsi que son savoir-faire.
+
+Répondez ensuite aux questions du fichier [RESPONSES.md](RESPONSES.md) directement dans celui-ci.
 ```
 package parts;
 
 /**
-* @author Paul Friedli
+ * @author <a href="mailto:friedlip@edufr.ch">Paul Friedli</a>
  */
 public class Motocycle {
 
